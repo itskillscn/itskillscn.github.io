@@ -4,10 +4,10 @@
 
 [gimmick:themechooser](Theme)
 
-[Windows](/01/windows.md)
+[Windows](windows)
 
-[Linux](02/linux.md)
+[Linux](linux)
 
-[Script](03/script.md)
+[Script](script)
 
-[Vmware](04/vmware.md)
+[Vmware](vmware)
