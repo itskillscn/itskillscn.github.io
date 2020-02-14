@@ -1,11 +1,16 @@
+# itskillscn.github.io
+
 note!
 
 > [itskillscn.github.io](https://itskillscn.github.io)
 > [itskills.cn](https://itskills.cn)
 
-
 hint!
 
+```bash
+#!/bin/bash
+echo hello everyone
+```
 
 warning!
 
